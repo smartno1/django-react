@@ -1,0 +1,1 @@
+d:\python-project\python-react\Scripts\activate
